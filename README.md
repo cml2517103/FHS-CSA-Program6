@@ -1,25 +1,35 @@
-# Program ___
+# Program 6
 
 ## Program Description:  
-- Find the ____
-- Choose variable names which are meaningful for this problem, like Area, Width, etc.
+- Write a program to print out the radius, diameter, area, and circumference of a circle.
+- The program should get the radius from the user
+  - Use double as your primative type for the radius  
+- Use a constant definition to store the value of  pi (3.14159).
+- Circumference = 2(pi)Radius or (pi)*Diameter
+- Area = (pi)*Radius<sup>2</sup>
+- Format the output to three decimal places.
+- Choose variable names which are meaningful for this problem.
 
-## Program Data ##:
-| C1  | C2 | C3 |
-| ----  | ---- | ---- |
-| Royale  | 286 | 9 |
-| Koopa   | 412 | 40 |
-| Pipe  | 361 | 18 |
-| Badwagon | 161 | 11 |
+## Program Data:
+N/A
 
-### Statements Required: 
+## Statements Required: 
+- Scanner
 - System.out
 - Variable Assignment
-- ...
+- Final Variable
+- Variable Operators (Math)
 
-### Sample Output:
->Some
+## Sample Output:
+>Enter the radius:
 >
->Out
+>3.712
 >
->Put
+>The Radius of the circle =			3.712
+>
+>The Diameter of the circle =    7.424
+>
+>The Area of the circle =			41.337
+>
+>The Circumference of the circle =		22.272
+
